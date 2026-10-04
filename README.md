@@ -1,21 +1,530 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Sarthak Sharma</h1><br><h3 align="center">Full Stack Developer | Data Analyst | AI Enthusiast</h3><br><br>---<br><br>🎓 I'm a **final-year engineering student** passionate about building **scalable web applications, data-driven systems, and AI-powered solutions**. I enjoy working at the intersection of **development, data, and intelligent systems** to create impactful products.<br><br>---<br><br>## 🚀 About Me<br><br>* 🔭 Currently working on **CodeLoom** – an AI-integrated coding platform<br>* 🌱 Exploring **advanced backend systems, AI integrations, and scalable architectures**<br>* 👯 Open to collaborating on **AI + Web Development + Data Projects**<br>* 💡 Interested in **real-world problem solving using modern tech stacks**<br>* ⚡ Fun fact: I analyze **stock market trends using data visualization**<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 💻 Full Stack Development<br><br>* **Frontend:** React, Tailwind CSS, ShadCN UI, JavaScript, HTML, CSS<br>* **Backend:** Node.js, Express.js, Python<br><br>### 🗄️ Databases<br><br>* MySQL (SQL)<br>* MongoDB (NoSQL)<br><br>### 📊 Data & Analytics<br><br>* Excel, Power BI<br>* Data Visualization & Dashboarding<br><br>### 🤖 AI & Advanced Tech<br><br>* Vector Databases<br>* Semantic Search<br>* OCR (Tesseract)<br>* AI-powered application development<br><br>---<br><br>## 📌WORKING ON <br><br>* 🔹 **CodeLoom** – AI-powered coding platform with intelligent assistance *(In Progress)*<br><br>---<br><br>## 📫 Connect With Me<br><br>* 📧 Email: **[sarthak.sharma20041705@gmail.com]<br><br>---<br><br>⭐ *Always eager to learn, build, and collaborate on impactful tech projects.*<br>
+<div align="center">
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:020617,100:00E5FF&height=230&section=header&text=SARTHAK%20SHARMA&fontSize=52&fontColor=E5E7EB&fontAlignY=38&desc=FULL%20STACK%20%E2%80%A2%20AI%20%E2%80%A2%20DATA&descAlignY=58&descSize=18&animation=fadeIn"
+  width="100%"
+/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sarthak-2233&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sarthak-2233&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarthak-2233&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarthak-2233&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+intelligent+products+%F0%9F%9A%80;Full+Stack+%2B+AI+%2B+Data;Currently+building+CodeLoom+%F0%9F%A7%A0;Turning+ideas+into+real-world+software;Build.+Break.+Learn.+Repeat."
+  alt="Typing Animation"
+/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarthak-2233&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br><br>
+
+<a href="mailto:sarthak.sharma20041705@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+&nbsp;
+<a href="https://github.com/sarthak-2233">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=sarthak-2233&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge"
+/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sarthak-2233&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# `01` // SYSTEM.IDENTITY
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                    SARTHAK@DEVELOPER                         │
+│                                                              │
+│  ROLE        →  FULL STACK DEVELOPER                         │
+│  SPECIALTY   →  AI + DATA + WEB                              │
+│  STATUS      →  BUILDING                                     │
+│  LOCATION    →  INDIA                                        │
+│  CURRENT     →  CODELOOM 🧠                                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+I'm a **final-year engineering student** passionate about building scalable applications, intelligent systems, and data-driven products.
+
+I enjoy working at the intersection of:
+
+**💻 Software Engineering + 🤖 Artificial Intelligence + 📊 Data**
+
+My goal isn't just to write code.
+
+> **I want to turn ideas into products that solve real problems.**
+
+---
+
+# `02` // DEVELOPER.MODE
+
+```javascript
+const sarthak = {
+
+    identity: "Developer & Builder",
+
+    roles: [
+        "Full Stack Developer",
+        "Data Analyst",
+        "AI Enthusiast"
+    ],
+
+    currentlyBuilding: "CodeLoom",
+
+    interests: [
+        "Scalable Backend Systems",
+        "Artificial Intelligence",
+        "Data Analytics",
+        "Semantic Search",
+        "Vector Databases",
+        "Developer Tools"
+    ],
+
+    philosophy:
+        "Build → Break → Learn → Improve → Repeat"
+};
+```
+
+---
+
+# `03` // FEATURED.PROJECTS
+
+<br>
+
+## ✈️ Aviation Analytics
+
+### `DATA × ANALYTICS × VISUALIZATION`
+
+> **Turning aviation data into meaningful insights.**
+
+A data analytics project focused on exploring aviation datasets, identifying patterns, analyzing flight and airline performance, and presenting insights through interactive dashboards.
+
+### 🔍 What I Explored
+
+```text
+✈️ Flight Analysis
+🛫 Airport Performance
+🏢 Airline Performance
+⏱️ Delay Analysis
+📊 KPI Analysis
+📈 Data Visualization
+```
+
+### 🛠️ Technology
+
+`Python` `Pandas` `SQL` `Power BI` `Excel` `Data Visualization`
+
+<br>
+
+### 📊 Dashboard Preview
+
+<!--
+===============================================================
+UPLOAD YOUR IMAGE TO:
+
+assets/aviation-dashboard.png
+
+THEN THIS IMAGE WILL APPEAR HERE.
+===============================================================
+-->
+
+<div align="center">
+
+<img
+  src="./assets/aviation-dashboard.png"
+  width="92%"
+  alt="Aviation Analytics Dashboard"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**📂 Repository** &nbsp;&nbsp; `|` &nbsp;&nbsp; **📊 Dashboard**
+
+</div>
+
+---
+
+<br>
+
+# 🧠 CodeLoom
+
+### `AI × FULL STACK × DEVELOPER TOOLS`
+
+> **An AI-powered coding platform I'm currently building.**
+
+CodeLoom is my flagship project focused on creating a smarter development environment through AI-powered assistance, semantic search, vector databases, and intelligent developer workflows.
+
+### ⚡ Core Concepts
+
+```text
+🤖 AI Coding Assistance
+🔎 Semantic Search
+🧠 Vector Databases
+💬 Intelligent Developer Interaction
+⚡ AI-powered Workflows
+🏗️ Scalable Backend Architecture
+```
+
+### 🛠️ Technology
+
+`React` `Node.js` `Express` `MongoDB` `Redis` `Python` `AI` `Vector Search`
+
+---
+
+### 🖥️ CodeLoom Preview
+
+<!--
+===============================================================
+MAIN CODELOOM SCREENSHOT:
+
+assets/codeloom-dashboard.png
+===============================================================
+-->
+
+<div align="center">
+
+<img
+  src="./assets/codeloom-dashboard.png"
+  width="92%"
+  alt="CodeLoom Dashboard"
+/>
+
+<br><br>
+
+<!--
+===============================================================
+OPTIONAL SECOND CODELOOM SCREENSHOT:
+
+assets/codeloom-ai.png
+===============================================================
+-->
+
+<img
+  src="./assets/codeloom-ai.png"
+  width="86%"
+  alt="CodeLoom AI Interface"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**📂 Repository** &nbsp;&nbsp; `|` &nbsp;&nbsp; **🚀 Live Demo**
+
+</div>
+
+---
+
+# `04` // TECH.STACK
+
+<div align="center">
+
+### 💻 LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=cpp,js,python" />
+
+<br><br>
+
+### 🎨 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite,html,css" />
+
+<br><br>
+
+### ⚙️ BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
+
+<br><br>
+
+### 🗄️ DATABASES
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+
+<br><br>
+
+### 🤖 AI / DATA
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=matplotlib&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+
+<br><br>
+
+### ☁️ CLOUD / DEVOPS
+
+<img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify,docker,githubactions" />
+
+<br><br>
+
+### 🔧 TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,npm,vscode" />
+
+</div>
+
+---
+
+# `05` // WHAT.I.BUILD
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 💻 FULL STACK
+
+Modern web applications, REST APIs, authentication systems and scalable backend architectures.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🤖 AI APPLICATIONS
+
+Practical AI integrations designed to make software smarter and workflows more efficient.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 📊 DATA PRODUCTS
+
+Dashboards, analytics systems and visualizations that turn raw data into useful insights.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 INTELLIGENT SYSTEMS
+
+Semantic search, vector databases, OCR, computer vision and AI-powered workflows.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `06` // DATA × DEVELOPMENT
+
+```text
+                         RAW DATA
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │   PROCESS   │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │   ANALYZE   │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │  VISUALIZE  │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │   INSIGHT   │
+                     └──────┬──────┘
+                            │
+                            ▼
+                    INTELLIGENT DECISION
+```
+
+### 📈 Data Toolkit
+
+`Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Power BI` · `Excel`
+
+> 📌 **Fun fact:** I enjoy analyzing stock market trends through data visualization.
+
+---
+
+# `07` // CURRENTLY.EXPLORING
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🧠 AI APPLICATIONS              ████████████████░░  80%    │
+│  ⚙️ BACKEND ARCHITECTURE         ██████████████░░░░  70%    │
+│  🔎 SEMANTIC SEARCH              █████████████░░░░░  65%    │
+│  🗄️ VECTOR DATABASES             ████████████░░░░░  60%    │
+│  ☁️ SCALABLE SYSTEMS             ███████████░░░░░░  55%    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `08` // GITHUB.ANALYTICS
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.shion.dev/api?username=sarthak-2233&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=sarthak-2233&theme=github-dark-blue&hide_border=true"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=sarthak-2233&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+/>
+
+</div>
+
+---
+
+# `09` // TROPHIES
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=sarthak-2233&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1"
+/>
+
+</div>
+
+---
+
+# `10` // CONTRIBUTION.ACTIVITY
+
+<div align="center">
+
+<img
+  src="https://github-contributor-stats.vercel.app/api?username=sarthak-2233&limit=5&theme=dark&combine_all_yearly_contributions=true"
+/>
+
+</div>
+
+---
+
+# `11` // 2026.MISSION
+
+```text
+                         2026
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+             ▼             ▼             ▼
+           BUILD         LEARN          SHIP
+             │             │             │
+             ▼             ▼             ▼
+          CodeLoom     AI Systems     Production
+             │         Architecture     Projects
+             │             │             │
+             └─────────────┼─────────────┘
+                           │
+                           ▼
+                    OPEN SOURCE 🚀
+                           │
+                           ▼
+                    IMPACTFUL PRODUCTS
+```
+
+### 🎯 Goals
+
+- [x] Full Stack Development
+- [x] Data Analytics
+- [x] AI Application Development
+- [x] Vector Database Exploration
+- [ ] 🚀 Take CodeLoom toward production
+- [ ] 🤖 Build more AI-powered products
+- [ ] 🌍 Contribute to open source
+- [ ] 🤝 Collaborate on impactful projects
+- [ ] 📚 Keep learning
+- [ ] ⚡ Keep shipping
+
+---
+
+# `12` // BEYOND.CODE
+
+<div align="center">
+
+```text
+☕  COFFEE        →  DEBUGGING FUEL
+
+🎧  MUSIC         →  DEEP WORK MODE
+
+📊  STOCK MARKET  →  DATA PLAYGROUND
+
+🧠  AI            →  CURRENT OBSESSION
+
+🚀  STARTUPS      →  FUTURE PLAYGROUND
+
+💻  CODING        →  EVERYDAY ADVENTURE
+```
+
+</div>
+
+---
+
+# `13` // LET'S.CONNECT
+
+<div align="center">
+
+### Building something interesting?
+
+### Let's build it together.
+
+<br>
+
+**AI Projects** · **Full Stack** · **Data** · **Open Source** · **Startups**
+
+<br><br>
+
+<a href="mailto:sarthak.sharma20041705@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20TALK-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/sarthak-2233">
+<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
+
+### `Build. Break. Learn. Repeat. 🚀`
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:020617,100:000000&height=130&section=footer"
+  width="100%"
+/>
+
+</div>
